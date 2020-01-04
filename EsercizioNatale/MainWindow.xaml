@@ -20,5 +20,6 @@
         <Button x:Name="btnReset" IsEnabled="False" Content="reset" HorizontalAlignment="Left" Height="32" Margin="29,361,0,0" VerticalAlignment="Top" Width="183" Click="btnReset_Click"/>
         <Label Content="quanti numeri Pari:" HorizontalAlignment="Left" Height="25" Margin="29,230,0,0" VerticalAlignment="Top" Width="115"/>
         <Label Content="quanti numeri Dispari:" HorizontalAlignment="Left" Height="25" Margin="29,300,0,0" VerticalAlignment="Top" Width="135"/>
+        
     </Grid>
 </Window>

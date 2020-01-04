@@ -138,6 +138,7 @@ namespace EsercizioNatale
                     Dispari++;
                     lblRisultato_.Content = $"{Dispari}";
                 }
+
             }
             catch (Exception)
             {
